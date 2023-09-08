@@ -1,0 +1,11 @@
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.exe.config
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.exe
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.pdb
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.AssemblyReference.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.frmData.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.Main.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.Properties.Resources.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.GenerateResource.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.CoreCompileInputs.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.exe
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.pdb

@@ -1,0 +1,36 @@
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.exe.config
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.exe
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Doanthu2.pdb
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.AssemblyReference.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.frmData.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.Main.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.Properties.Resources.resources
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.GenerateResource.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.CoreCompileInputs.cache
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.exe
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.pdb
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.UI.dll
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.World.dll
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\ZedGraph.dll
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\bin\Debug\Emgu.CV.World.xml
+C:\Users\leeng\OneDrive\Documents\PBL4\Doanthu2\obj\Debug\Doanthu2.csproj.CopyComplete
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Doanthu2.exe.config
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Doanthu2.exe
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Doanthu2.pdb
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\ZedGraph.dll
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Emgu.CV.UI.xml
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\bin\Debug\Emgu.CV.World.xml
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.csproj.AssemblyReference.cache
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.frmData.resources
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.Main.resources
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.Properties.Resources.resources
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.csproj.GenerateResource.cache
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.csproj.CoreCompileInputs.cache
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.csproj.CopyComplete
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.exe
+C:\Users\HD PC\Downloads\PBL4\PBL4\Doanthu2 saoluu v10\Doanthu2\obj\Debug\Doanthu2.pdb
